@@ -17,6 +17,7 @@ Make sure you have the following dependencies installed:
 * `python`
 * `pip`
 * `pipenv`
+
 Google is your friend, should you need to install dependencies.
 
 To create and enable the virtual environment:
